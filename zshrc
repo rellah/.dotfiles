@@ -103,5 +103,10 @@ if [[ ! -d $ZSH_CACHE_DIR ]]; then
   mkdir $ZSH_CACHE_DIR
 fi
 
+# theFuck plugin
 source $ZSH/oh-my-zsh.sh
 eval $(thefuck --alias)
+
+
+# On Shell launch
+neofetch
