@@ -95,7 +95,8 @@ alias zshconfig="nvim ~/.zshrc"
 alias ohmyzsh="nvim ~/.oh-my-zsh"
 alias i3config="nvim ~/.config/i3/config"
 alias polyconfig="nvim ~/.config/polybar/config.ini"
-
+alias termiteconfig="nvim ~/.config/termite/config"
+alias comptonconfig="nvim ~/.config/compton/compton.conf"
 
 
 ZSH_CACHE_DIR=$HOME/.cache/oh-my-zsh
